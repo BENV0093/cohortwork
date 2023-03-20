@@ -23,6 +23,13 @@ Colombia| China
 <img width="1038" alt="Screenshot 2023-03-20 at 14 30 40" src="https://user-images.githubusercontent.com/128397654/226384876-1722e4e0-9ef1-4681-869e-aad55cbc26c0.png"> |<img width="1034" alt="Screenshot 2023-03-20 at 14 30 54" src="https://user-images.githubusercontent.com/128397654/226384883-9214797a-5ee9-4e92-b07c-2398543a3d46.png">
 UK|UK cities
 <img width="1216" alt="Screenshot 2023-03-20 at 14 31 10" src="https://user-images.githubusercontent.com/128397654/226384885-ac59ba50-2d17-49a8-a615-2e6b17c14d72.png"> | <img width="914" alt="Screenshot 2023-03-20 at 14 31 31" src="https://user-images.githubusercontent.com/128397654/226384888-17e43aae-b18c-4f23-a9f2-91751a63894c.png">
+x | x
+<img width="932" alt="Screenshot 2023-03-20 at 14 29 55" src="https://user-images.githubusercontent.com/128397654/226385756-147787da-b810-4ffd-9d15-c90ed16b5200.png"> | <img width="1181" alt="Screenshot 2023-03-20 at 14 27 43" src="https://user-images.githubusercontent.com/128397654/226385726-8322c76a-1cdd-4175-8a3e-c7c5935a8b3e.png">  
+x|x
+<img width="741" alt="Screenshot 2023-03-20 at 14 28 22" src="https://user-images.githubusercontent.com/128397654/226385734-9178f36e-0cb6-4312-9706-06b1a3068e3d.png"> | <img width="548" alt="Screenshot 2023-03-20 at 14 29 15" src="https://user-images.githubusercontent.com/128397654/226385746-2e0ef604-f0fc-4026-b92e-4fcbd1a4f9bd.png">
+x | x
+<img width="742" alt="Screenshot 2023-03-20 at 14 27 59" src="https://user-images.githubusercontent.com/128397654/226385731-d61d1e59-0523-486c-8758-de942103fb5b.png">  | <img width="590" alt="Screenshot 2023-03-20 at 14 28 41" src="https://user-images.githubusercontent.com/128397654/226385742-34d47dea-9ce9-48f0-818e-f847da6fb728.png"> 
+
 
 
 
