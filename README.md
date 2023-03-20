@@ -17,3 +17,12 @@ Carlifornia | UK
 <img width="1042" alt="Screenshot 2023-03-20 at 14 33 15" src="https://user-images.githubusercontent.com/128397654/226382648-4aef742e-b13f-48ff-b8c4-fa385d03cb86.png"> | <img width="466" alt="Screenshot 2023-03-20 at 14 33 29" src="https://user-images.githubusercontent.com/128397654/226382653-0ee8a77f-eea7-4f89-b3da-c88dab790b55.png">
 World | New York
 <img width="1224" alt="Screenshot 2023-03-20 at 14 33 42" src="https://user-images.githubusercontent.com/128397654/226382656-4dc9f486-5e4e-4af2-bc53-e2206d395bc2.png"> | <img width="1166" alt="Screenshot 2023-03-20 at 14 34 00" src="https://user-images.githubusercontent.com/128397654/226382657-a88fc30c-45f2-4706-a6de-b3cccc1eccd7.png">
+x| x
+<img width="409" alt="Screenshot 2023-03-20 at 14 30 17" src="https://user-images.githubusercontent.com/128397654/226384867-0830b371-6718-4b8d-8d21-d1a61a42ed0f.png"> | <img width="947" alt="Screenshot 2023-03-20 at 14 30 27" src="https://user-images.githubusercontent.com/128397654/226384874-9d2d509c-fbe6-47ee-9ae0-f6078ad107f0.png">
+x| x
+<img width="1038" alt="Screenshot 2023-03-20 at 14 30 40" src="https://user-images.githubusercontent.com/128397654/226384876-1722e4e0-9ef1-4681-869e-aad55cbc26c0.png"> |<img width="1034" alt="Screenshot 2023-03-20 at 14 30 54" src="https://user-images.githubusercontent.com/128397654/226384883-9214797a-5ee9-4e92-b07c-2398543a3d46.png">
+x|x
+<img width="1216" alt="Screenshot 2023-03-20 at 14 31 10" src="https://user-images.githubusercontent.com/128397654/226384885-ac59ba50-2d17-49a8-a615-2e6b17c14d72.png"> | <img width="914" alt="Screenshot 2023-03-20 at 14 31 31" src="https://user-images.githubusercontent.com/128397654/226384888-17e43aae-b18c-4f23-a9f2-91751a63894c.png">
+
+
+
